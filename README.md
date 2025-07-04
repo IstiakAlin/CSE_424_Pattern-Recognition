@@ -1,4 +1,4 @@
-# CSE_424_Pattern-Recognition
+# Pattern-Recognition project
 
 ### Submission-1 (Paper Review)
   The paper presents MCapsNet, an advanced deep learning model combining a modified Capsule Network with attention mechanisms to improve crop pest recognition, outperforming traditional CNNs and showing strong potential for real-world agricultural use.
