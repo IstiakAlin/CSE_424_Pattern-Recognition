@@ -13,7 +13,7 @@
  of data that contributes to the robustness of the EuroSAT
  dataset.
  
-### Submission-4 (Model tuning, Model Running)
+### Submission-4 (Model tuning, Model Result)
   VGG16 and ResNet50
  <table>
     <thead>
